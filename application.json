@@ -1,7 +1,7 @@
 {
   "id" : "helloscript",
   "name" : "helloscript",
-  "example" : true,
+  "example" : "helloscript",
   "resources" : {
     "client" : {
       "type" : "aggregating-filesystem",
